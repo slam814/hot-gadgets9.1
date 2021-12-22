@@ -1,0 +1,34 @@
+.container {
+  margin-bottom: 80px;
+}
+
+nav img {
+  width: 100%;
+}
+.price {
+  color: darkslategray;
+}
+
+.buy-now-button {
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.bg-1 {
+  background-image: url(bg-1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bg-2 {
+  background-image: url(bg-2.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.link {
+  color: red;
+}
+.categories {
+  text-align: center;
+}
